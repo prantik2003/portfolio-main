@@ -1,0 +1,38 @@
+[
+  {
+    "name": "LakeSide Hotel",
+    "desc": "Full-Stack Hotel Management WebApp using Java Spring & Springboot as backend and ReactJS as frontend.",
+    "image": "hotel-app",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "CuraSync",
+    "desc": "Full-Stack Hospital Management WebApp with Patients' Booking Appointments functionalities & Admin Dashboard. MERN Stack WebApp, ready to use for business.",
+    "image": "curasync",
+    "links": {
+      "view": "",
+      "code": "https://github.com/prantik2003/hospital-management-system"
+    }
+  },
+  {
+    "name": "Real Talk",
+    "desc": "This is a real-time chat application built with the MERN stack and Socket.IO . It allows users to connect, communicate, and share messages instantly.",
+    "image": "chat-app",
+    "links": {
+      "view": "",
+      "code": "https://github.com/prantik2003/mern-chat-app"
+    }
+  },
+  {
+    "name": "YouTube Clone",
+    "desc": "Fully functional YouTube clone built with MERN. It allows users to browse, search, and watch videos, similar to the original YouTube platform.",
+    "image": "youtubeclone",
+    "links": {
+      "view": "https://youtube-clone-three-eta-77.vercel.app/",
+      "code": "https://github.com/prantik2003/youtube-clone"
+    }
+  }
+]
