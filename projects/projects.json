@@ -1,11 +1,11 @@
 [
   {
-    "name": "LakeSide Hotel",
-    "desc": "Full-Stack Hotel Management WebApp using Java Spring & Springboot as backend and ReactJS as frontend.",
-    "image": "hotel-app",
+    "name": "Schedulrr",
+    "desc": "Full Stack Calendly Clone built with React & NextJS as front-end, Node & ExpressJS as back-end, Prisma & NeonDB as database, Clerk for authentication.",
+    "image": "schedulrr",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://schedulrr-kappa.vercel.app",
+      "code": "https://github.com/prantik2003/schedulrr"
     }
   },
   {
@@ -13,7 +13,7 @@
     "desc": "Full-Stack Hospital Management WebApp with Patients' Booking Appointments functionalities & Admin Dashboard. MERN Stack WebApp, ready to use for business.",
     "image": "curasync",
     "links": {
-      "view": "",
+      "view": "https://curasync.netlify.app",
       "code": "https://github.com/prantik2003/hospital-management-system"
     }
   },
