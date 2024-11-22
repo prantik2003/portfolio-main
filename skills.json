@@ -32,20 +32,24 @@
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "Svelte",
-        "icon": "https://img.icons8.com/doodle/48/svetle.png"
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000"
     },
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
+        "name": "NextJS",
+        "icon": "https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"
+    },
+    {
         "name": "Redux",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
+    },
+    {
+        "name": "Svelte",
+        "icon": "https://img.icons8.com/doodle/48/svetle.png"
     },
     {
         "name": "NodeJS",
