@@ -33,7 +33,7 @@
     },
     {
         "name": "TypeScript",
-        "icon": "https://img.icons8.com/?size=100&id=0FC8MqL9J16f&format=png&color=000000"
+        "icon": "https://img.icons8.com/fluency/50/typescript.png"
     },
     {
         "name": "ReactJS",
@@ -41,7 +41,7 @@
     },
     {
         "name": "NextJS",
-        "icon": "https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000"
+        "icon": "https://img.icons8.com/fluency/50/nextjs.png"
     },
     {
         "name": "Redux",
@@ -121,6 +121,6 @@
     },
     {
         "name": "Postman",
-        "icon": "https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000"
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
     }
 ]
