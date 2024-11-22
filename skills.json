@@ -100,10 +100,6 @@
         "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
     },
     {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/nolan/64/heroku.png"
-    },
-    {
         "name": "VS Code",
         "icon": "https://img.icons8.com/color/48/visual-studio-code-2019.png"
     },
